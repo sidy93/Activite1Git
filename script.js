@@ -1,1 +1,3 @@
-alert("premiere activite partie 2");
+function Somme(val1, val2) {
+    return val1 * val2;           
+}
